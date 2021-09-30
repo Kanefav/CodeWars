@@ -1,5 +1,5 @@
 def score(dice):
-    contone = contfive = cont = output = 0
+    contone = contfive = output = 0
     dicestr = []
     for side in dice:
         if side == 1: 
