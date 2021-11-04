@@ -16,7 +16,7 @@ def spiral_sum(size):
     else:
         return outsize - soma-1
 
-    
+
 
 
 print(spiral_sum(123456))
